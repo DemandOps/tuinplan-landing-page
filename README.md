@@ -1,1 +1,1 @@
-Tuinplan landing page: https://tuinplan.io
+Tuinplan landing page: https://tuinplan.app
