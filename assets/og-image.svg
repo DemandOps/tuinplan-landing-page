@@ -1,0 +1,32 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Open Graph image for social sharing -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f1f8e9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+
+  <!-- Decorative leaf -->
+  <text x="1050" y="200" font-family="Arial" font-size="300" fill="rgba(34,139,34,0.1)">🌿</text>
+
+  <!-- Logo -->
+  <text x="100" y="150" font-family="Arial" font-size="40" fill="#228B22" font-weight="800">🌿 TuinPlan</text>
+
+  <!-- Main headline -->
+  <text x="100" y="250" font-family="Arial" font-size="68" fill="#1a1a1a" font-weight="900">Van Overweldigend</text>
+  <text x="100" y="330" font-family="Arial" font-size="68" fill="#228B22" font-weight="900">naar Overzichtelijk</text>
+
+  <!-- Subheadline -->
+  <text x="100" y="400" font-family="Arial" font-size="32" fill="#666">AI-aangedreven tuinplanning in 20 minuten</text>
+
+  <!-- Value prop -->
+  <rect x="100" y="450" width="500" height="80" rx="20" fill="rgba(255,255,255,0.9)"/>
+  <text x="350" y="495" font-family="Arial" font-size="28" fill="#1a1a1a" text-anchor="middle" font-weight="700">€120k droom → €3k weekend</text>
+
+  <!-- Price -->
+  <text x="100" y="580" font-family="Arial" font-size="24" fill="#666">€59.99/jaar • Start Gratis</text>
+</svg>
